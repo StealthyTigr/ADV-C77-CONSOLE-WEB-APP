@@ -1,0 +1,17 @@
+console.log("Hello");
+var first_name = "Prakhar";
+var last_name = "Mishra"; 
+var fullname = first_name.concat(last_name);
+console.log(fullname);
+var square_root = Math.sqrt(7921);
+console.log(square_root);
+var max_number = Math.max(1,780);
+console.log(max_number);
+var min_number = Math.min(1,789);
+console.log(min_number);
+var power = Math.pow(2,4);
+console.log(power);
+var a = 3 ; 
+var b = 7 ; 
+var add = a + b ; 
+console.log(add) ; 
